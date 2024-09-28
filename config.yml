@@ -1,0 +1,382 @@
+config-sparse:
+  modules:
+    aiSwapper:
+      config:
+        menu:
+          contents:
+            suggested-value:
+              frederick:
+                - name: Azula
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Azula/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              phillip:
+                - name: General Hi
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/General-Hi/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              wazir:
+                - name: General Osoroshi
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/General-Osoroshi/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              emir:
+                - name: Akasha, the Queen of Pain
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Akasha/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              nizar:
+                - name: Luna, the Moon Rider
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Luna/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+              sheriff:
+                - name: Widowmaker
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Widowmaker/
+                  control:
+                    binks: true
+                    speech: true
+                    lines: true
+                    portrait: true
+                    aic: true
+                    aiv: true
+                    lord: true
+                    startTroops: true
+        defaultLanguage:
+          contents:
+            suggested-value: null
+        ai:
+          frederick:
+            binks:
+              contents:
+                suggested-value:
+                  name: Azula
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Azula/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Azula
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Azula/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Azula
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Azula/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Azula
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Azula/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Azula
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Azula/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Azula
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Azula/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Azula
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Azula/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Azula
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Azula/
+                  active: true
+          phillip:
+            binks:
+              contents:
+                suggested-value:
+                  name: General Hi
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/General-Hi/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: General Hi
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/General-Hi/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: General Hi
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/General-Hi/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: General Hi
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/General-Hi/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: General Hi
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/General-Hi/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: General Hi
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/General-Hi/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: General Hi
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/General-Hi/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: General Hi
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/General-Hi/
+                  active: true
+          wazir:
+            binks:
+              contents:
+                suggested-value:
+                  name: General Osoroshi
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/General-Osoroshi/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: General Osoroshi
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/General-Osoroshi/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: General Osoroshi
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/General-Osoroshi/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: General Osoroshi
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/General-Osoroshi/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: General Osoroshi
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/General-Osoroshi/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: General Osoroshi
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/General-Osoroshi/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: General Osoroshi
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/General-Osoroshi/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: General Osoroshi
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/General-Osoroshi/
+                  active: true
+          emir:
+            binks:
+              contents:
+                suggested-value:
+                  name: Akasha, the Queen of Pain
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Akasha/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Akasha, the Queen of Pain
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Akasha/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Akasha, the Queen of Pain
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Akasha/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Akasha, the Queen of Pain
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Akasha/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Akasha, the Queen of Pain
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Akasha/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Akasha, the Queen of Pain
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Akasha/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Akasha, the Queen of Pain
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Akasha/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Akasha, the Queen of Pain
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Akasha/
+                  active: true
+          nizar:
+            binks:
+              contents:
+                suggested-value:
+                  name: Luna, the Moon Rider
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Luna/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Luna, the Moon Rider
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Luna/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Luna, the Moon Rider
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Luna/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Luna, the Moon Rider
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Luna/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Luna, the Moon Rider
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Luna/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Luna, the Moon Rider
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Luna/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Luna, the Moon Rider
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Luna/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Luna, the Moon Rider
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Luna/
+                  active: true
+          sheriff:
+            binks:
+              contents:
+                suggested-value:
+                  name: Widowmaker
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Widowmaker/
+                  active: true
+            speech:
+              contents:
+                suggested-value:
+                  name: Widowmaker
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Widowmaker/
+                  active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: Widowmaker
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Widowmaker/
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Widowmaker
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Widowmaker/
+                  active: true
+            aic:
+              contents:
+                suggested-value:
+                  name: Widowmaker
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Widowmaker/
+                  active: true
+            aiv:
+              contents:
+                suggested-value:
+                  name: Widowmaker
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Widowmaker/
+                  active: true
+            lord:
+              contents:
+                suggested-value:
+                  name: Widowmaker
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Widowmaker/
+                  active: true
+            startTroops:
+              contents:
+                suggested-value:
+                  name: Widowmaker
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Widowmaker/
+                  active: true
+  plugins:
+    Fiery-Ladies-AI:
+      config: {}
+meta:
+  version: 1.0.0

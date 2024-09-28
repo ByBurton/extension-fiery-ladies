@@ -1,0 +1,7 @@
+name: Fiery-Ladies
+author: Kimberly Azula
+version: 0.375.0
+dependencies:
+  Fiery-Ladies-AI: ^0.375.0
+  framework: ">=3.0.4"
+  frontend: ">=1.0.5"
