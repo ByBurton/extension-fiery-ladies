@@ -375,6 +375,86 @@ config-sparse:
                   name: Widowmaker
                   root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Widowmaker/
                   active: true
+    ucp2-legacy:
+      config:
+        ai_addattack:
+          contents:
+            suggested-value:
+              enabled: true
+              choice: relative
+              choices:
+                absolute:
+                  slider: 7
+                relative:
+                  slider: 1
+        u_arabwall:
+          enabled:
+            contents:
+              suggested-value: false
+        o_change_siege_engine_spawn_position_catapult:
+          enabled:
+            contents:
+              suggested-value: true
+        o_stop_player_keep_rotation:
+          enabled:
+            contents:
+              suggested-value: true
+        o_xtreme:
+          enabled:
+            contents:
+              suggested-value: true
+        o_armory_marketplace_weapon_order_fix:
+          enabled:
+            contents:
+              suggested-value: true
+        o_fast_placing:
+          enabled:
+            contents:
+              suggested-value: true
+        o_default_multiplayer_speed:
+          contents:
+            suggested-value:
+              enabled: true
+              sliderValue: 69
+    rebalancer:
+      config:
+        balance_config_file_selector:
+          contents:
+            suggested-value: ucp/plugins/Fiery-Ladies-AI-*/resources/kimberlybalance/kimberlybalance.json
+    running-units:
+      config:
+        macemen:
+          running:
+            general:
+              contents:
+                suggested-value: true
+            ai:
+              contents:
+                suggested-value: aic_ignore_run
+        slingers:
+          running:
+            general:
+              contents:
+                suggested-value: true
+            ai:
+              contents:
+                suggested-value: aic_ignore_run
+        slaves:
+          running:
+            general:
+              contents:
+                suggested-value: true
+            ai:
+              contents:
+                suggested-value: aic_ignore_run
+        spearmen:
+          running:
+            general:
+              contents:
+                suggested-value: true
+            ai:
+              contents:
+                suggested-value: aic_ignore_run
   plugins:
     Fiery-Ladies-AI:
       config: {}

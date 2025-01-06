@@ -3,5 +3,7 @@ author: Kimberly Azula
 version: 0.375.0
 dependencies:
   Fiery-Ladies-AI: ^0.375.0
-  framework: ">=3.0.4"
-  frontend: ">=1.0.5"
+  rebalancer: ^1.0.6
+  running-units: ^1.0.1
+type: plugin
+display-name: Fiery-Ladies
