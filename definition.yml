@@ -1,8 +1,8 @@
 name: Fiery-Ladies
 author: Kimberly Azula
-version: 0.5.0
+version: 0.5.1
 dependencies:
-  Fiery-Ladies-AI: ^0.5.0
+  Fiery-Ladies-AI: ^0.5.1
   rebalancer: ^1.0.6
   running-units: ^1.0.1
 type: plugin
