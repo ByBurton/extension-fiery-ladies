@@ -422,6 +422,18 @@ config-sparse:
                   name: Sarah Kerrigan, the Queen of Blades
                   root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Sarah-Kerrigan/
                   active: true
+            binks:
+              contents:
+                suggested-value:
+                  name: Sarah Kerrigan, the Queen of Blades
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Sarah-Kerrigan
+                  active: true
+            portrait:
+              contents:
+                suggested-value:
+                  name: Sarah Kerrigan, the Queen of Blades
+                  root: ucp/plugins/Fiery-Ladies-AI/resources/ai/Sarah-Kerrigan
+                  active: true
     ucp2-legacy:
       config:
         ai_addattack:
